@@ -1,7 +1,5 @@
 # Resumo dos temas estudados nas matérias de Redes, Git/GitHub e HTML
 
-# Resumo do Módulo - Redes, Git/GitHub e HTML
-
 ## Redes de Computadores e Internet
 
 ### Conceitos Fundamentais
